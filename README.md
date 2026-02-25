@@ -16,7 +16,7 @@ Este projeto implementa uma **LSM-Tree (Log-Structured Merge-Tree)**, otimizada 
 
 ## Como rodar
 1. Instale as dependências:
-   ```bash
+```bash
    npm install
 
 ```
