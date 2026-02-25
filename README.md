@@ -1,4 +1,3 @@
-```markdown
 # Node LSM-Tree Engine
 
 Um motor de armazenamento de alto desempenho inspirado em bancos de dados como **RocksDB** e **Cassandra**, construído do zero com Node.js puro.
